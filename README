@@ -1,0 +1,8 @@
+## Requirements
+
+- **Alacritty**: [alacritty.org](https://alacritty.org)
+- **PowerShell**: [GitHub Releases](https://github.com/PowerShell/PowerShell/releases)
+- **Starship**: `winget install --id Starship.Starship`
+- **zoxide**: `winget install ajeetdsouza.zoxide`
+- **fzf**: `winget install fzf`
+- **Nerd Font**: [nerdfonts.com](https://www.nerdfonts.com/font-downloads)
